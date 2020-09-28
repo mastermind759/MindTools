@@ -1,1 +1,133 @@
+body{
+    margin-left: 20px;
+    margin-right: 20PX;
+    background-color:#ffeadb;
+    font-family: 'Architects Daughter', cursive;
+}
+h1{
+    font-family: 'Sacramento', cursive;
+    padding-top: 30px;
+    padding-left: 40px;
+    font-size: 4em;
+    color:rgb(121, 90, 7);
+}
+.website{
+    margin-top:80px;
+    margin-left:10px;
+    top: 10px;
+    left: 10px;
+}
+.icon{
+    height: 400px;
+    width: 400px;
+    margin-left: 150px;
+    margin-top:100px;
+    margin-bottom: 30px;
+    border-radius: 50%;
+    position: absolute;
+}
+.doodle{
+    height:500px;
+    width: 700px;
+    position: absolute;
+    margin-top:600px ;
+    margin-left: 50px;
+}
+.topcard{
+    height:400px;
+    width: 600px;
+    margin-top: 100px;
+    margin-left: 850px;
+   
+}
+.card{
+    height: 600px;
+    width: 400px;
+    margin-top: 1300px;
+    margin-left: 750px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
 
+.logo{
+    position: absolute;
+    height:50px ;
+    margin-left: 20px;
+    margin-top: 10px;
+    border-radius: 50%;
+    top: 10px;
+}
+.left-text{
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 100px;
+    font-family: 'Architects Daughter', cursive;
+    color:rgb(121, 90, 7);
+    font-size: 2em;
+}
+.right-text{
+    position: absolute;
+    margin-top: 700px;
+    margin-left : 850px;
+    font-family: 'Architects Daughter', cursive;
+    color:rgb(121, 90, 7);
+    font-size: 2em;
+}
+.content{
+    position: absolute;
+    margin-top: 1500px;
+    margin-left: 90px;
+    font-family: 'Architects Daughter', cursive;
+    color:rgb(121, 90, 7);
+    font-size: 2em;
+}
+}
+.mid{
+    margin-top: 700px;
+    margin-left: 850px;
+    height:700px;
+    width:30%;
+    background-color:#ff9a76;
+    position: absolute;
+}
+.conlogo{
+    padding: 20px;
+    height: 100px;
+}
+
+    
+}
+.middlecontainer{
+    height : 200px;
+    width : 200px;
+    background-color: #ffeadb;
+    position: absolute;
+    left: 400px;
+    top: 250px;
+}
+
+.bottomcontainer{
+    height : 200px;
+    width : 100%;
+    background-color:#679b9b;
+    position: absolute;
+    top: 2800px;
+}
+.bottom-text{
+    font-family: 'David Libre';
+    color:cornsilk;
+    margin-left: 500px;
+    top: 2810px;
+    margin-top: 20px;
+    font-size: 2em;
+}
+.bottom-left{
+    font-family: 'David Libre';
+    color:cornsilk;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+.bottom-right{
+    font-family: 'David Libre';
+    color:cornsilk;
+    margin-left: 1100px;
+}
